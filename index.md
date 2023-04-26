@@ -17,12 +17,10 @@ Since 2014, we’ve helped produce over 100 “smiling media” videos in 15+ co
 
 We believe that if each of us cooperates to share our own unique story, we will be able to witness a more clear picture of our world.
 
-```
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hee3NViGDNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
-```
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1NkFV_OX0zM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
-```
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NE6AzQT6IL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+
