@@ -2,11 +2,9 @@
 layout: default
 ---
 
-We help create inspiring and uplifting media from your footage.
+We help create `inspiring` and `uplifting` media from your footage.
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-We serve communities, brands, and individuals who share the values of ethical, regenerative, and intentional business practices. Our services are value-4-value based, because your uplifting story deserves to be shared.
+We serve `communities`, `brands`, and `individuals` who share the values of `ethical`, `regenerative`, and `intentional` business practices. Our services are **value-4-value** based, because your uplifting story deserves to be shared.
 
 Check out our [YouTube channel](https://www.youtube.com/@perceptiontraveltv) and help us get monetized by watching some videos.
 
