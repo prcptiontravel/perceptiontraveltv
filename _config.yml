@@ -1,6 +1,6 @@
 title: Perception Travel TV
-description: We help you edit your uplifting footage.
-show_downloads: true
+description: Sharing global stories, editing your uplifting footage.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 remote_theme: pages-themes/hacker@v0.2.0
