@@ -8,8 +8,6 @@ We serve `communities`, `brands`, and `individuals` who share the values of `eth
 
 Check out our [YouTube channel](https://www.youtube.com/@perceptiontraveltv) and help us get monetized by watching some videos.
 
-Support us by using the Bitcoin addresses below.
-
 ## Samples
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hee3NViGDNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -26,6 +24,7 @@ Profit-motivated media manipulate the stories of our world. We believe that work
 
 We also tried building a FOSS, PHP-based <a href="https://perceptions.live">media networking platform, but ran out of steam. If you're curious to help us haul it back onto the rails, <a href="mailto:hello@perceptiontravel.tv">let us know</a>.
 
+<a name="support">
 ## Support us with BTC
 
 **On-chain**: bc1qurf6vp6jvypnmv7n03pc20aax9hq4d0x7ursdk
