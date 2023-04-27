@@ -2,14 +2,16 @@
 layout: default
 ---
 
-We help create `inspiring` and `uplifting` media from your footage, and don't want to ask for payment.
+We help create `inspiring` and `uplifting` media from your footage.
 
-We serve `communities`, `brands`, and `individuals` who share the values of `ethical`, `regenerative`, and `intentional` business practices. Our services are **value-4-value** based, because your uplifting stories deserve to be shared.
+We serve `communities`, `brands`, and `individuals` who share the values of `ethical`, `regenerative`, and `intentional` business practices. Our services are based on the **value-4-value** ethos, because your uplifting stories deserve to be shared.
 
 Check out our [YouTube channel](https://www.youtube.com/@perceptiontraveltv) and help us get monetized by watching some videos.
 
 
-## Samples
+## Submit Your Footage Ideas
+
+You send us your footage (smartphone, camera, drone, whatever) and we'll work with you to tell an engaging story with a call-to-action (if necessary). Here are some samples:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hee3NViGDNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
