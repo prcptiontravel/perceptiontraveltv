@@ -40,4 +40,4 @@ We also tried building a FOSS, PHP-based <a href="https://perceptions.live">medi
 <img src="assets/images/LNsats.png">
 
 ## Contact
-To talk projects, sponsorships, or something else, find us by email: `hello [at] perceptiontravel [dot] tv`
+To talk projects, sponsorships, or something else, find us by email: `hello [at] perceptiontravel.tv`
