@@ -2,14 +2,14 @@
 layout: default
 ---
 
-We help create `inspiring` and `uplifting` media from your footage.
+We create `inspiring` and `uplifting` media from your footage.
 
-We serve `communities`, `brands`, and `individuals` who share the values of `ethical`, `regenerative`, and `intentional` business practices. Our services are based on the **value-4-value** ethos, because your uplifting stories deserve to be shared.
+We serve `communities`, `brands`, and `individuals` who share the values of `ethical`, `regenerative`, and `intentional` business practices. Our services are based on the **value4value** ethos, because your uplifting stories deserve to be shared.
 
 Check out our [YouTube channel](https://www.youtube.com/@perceptiontraveltv) and help us get monetized by watching some videos.
 
 
-## Submit Your Footage Ideas
+## Submit Your Footage and Ideas
 
 You send us your footage (smartphone, camera, drone, whatever) and we'll work with you to tell an engaging story with a call-to-action (if necessary). Here are some samples:
 
