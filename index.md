@@ -11,7 +11,9 @@ Check out our [YouTube channel](https://www.youtube.com/@perceptiontraveltv) and
 
 ## Submit Your Footage and Ideas
 
-You send us your footage (smartphone, camera, drone, whatever) and we'll work with you to tell an engaging story with a call-to-action (if necessary). Here are some samples:
+Send us your footage (smartphone, camera, drone, whatever) and we'll work with you to tell an engaging story with a call-to-action (if necessary). Here is some previous work:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uvT7W4AyQm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hee3NViGDNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
